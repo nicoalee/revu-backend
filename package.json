@@ -1,0 +1,19 @@
+{
+  "name": "revu-backend",
+  "version": "1.0.0",
+  "description": "Backend to support revu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoalee/revu-backend.git"
+  },
+  "author": "nicoalee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoalee/revu-backend/issues"
+  },
+  "homepage": "https://github.com/nicoalee/revu-backend#readme"
+}
