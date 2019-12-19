@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/nicoalee/revu-backend/issues"
   },
-  "homepage": "https://github.com/nicoalee/revu-backend#readme"
+  "homepage": "https://github.com/nicoalee/revu-backend#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
 }
